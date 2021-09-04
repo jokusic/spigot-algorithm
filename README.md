@@ -27,3 +27,6 @@ if they are not deleted)
 
 ## Assumptions:
 The file name given will be a valid one (correct file extensions).
+
+## Additional Information:
+Assignment for CIS*3190 in 2019.
